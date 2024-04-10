@@ -1,0 +1,17 @@
+#header, #pic, #btn {
+    display: flex;
+    justify-content: center;
+}
+
+#header {
+    font-family: 'Merriweather', serif;
+}
+
+#one, #two {
+    padding: 25px;
+    font-family: 'Merriweather', serif;
+    background-color: rgb(240, 197, 204);
+    border: 1px solid rgb(134, 112, 112);
+    font-size: 15px;
+    font-weight: bold;
+}
