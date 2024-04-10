@@ -3,7 +3,7 @@ Wedding Dress is a JS/HTML/CSS project which helps brides-to-be to find their dr
 
 ## Usage
 
-Open every link for finding the appropriate music  
+Read the question and click the appropriate button.
 
 ![Nature](nature.png)
 
@@ -20,4 +20,5 @@ to discuss what you would like to change.
 
 ## Contact
 Name: https://github.com/Nadia656 </br>
-Project Link: https://github.com/Nadia656/Best-Meditation.git
+Project Link: https://github.com/Nadia656/WeddingDress-choice.git
+
