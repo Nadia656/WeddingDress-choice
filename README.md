@@ -5,7 +5,7 @@ Wedding Dress is a JS/HTML/CSS project which helps brides-to-be to find their dr
 
 Read the question and click the appropriate button.
 
-![Nature](nature.png)
+![WeddingDress](ReadMe.png)
 
 
 ## Built With
